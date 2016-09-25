@@ -40,7 +40,7 @@
   },
   "devDependencies": {
     "coveralls": "^2.11.13",
-    "cross-spawn": "^4.0.0",
+    "cross-spawn": "^4.0.2",
     "eslint": "^3.5.0",
     "fake": "^0.2.2",
     "far": "^0.0.7",
